@@ -17,7 +17,6 @@
 * Usar Multisim y PSpice para resolver problemas de circuitos simples de ca.
 * Determinar las relaciones de fase entre formas de onda con fasores
 
-
 ### **2.	Marco Teórico (Resumen)**
 
 ### **3.	Explicación y resolución de ejercicios o problemas**
