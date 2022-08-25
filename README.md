@@ -23,6 +23,22 @@
 
 ### **Capitulo 15**
 
+**2. Localice los siguientes números en el plano complejo:**
+
+![image](https://user-images.githubusercontent.com/105742149/186554425-c2141c87-c74d-4a3d-9f7c-46a181df90b3.png)
+![image](https://user-images.githubusercontent.com/105742149/186554395-1117221c-05b2-4095-8c21-aee7dea0478f.png)
+![image](https://user-images.githubusercontent.com/105742149/186554469-9273dd50-2a07-4ddd-a185-90e016677959.png)
+![image](https://user-images.githubusercontent.com/105742149/186554488-f2b6b193-690a-48e4-8189-8e230ab8587f.png)
+
+
+
+
+
+
+
+
+
+
 ### **Capitulo 16**
 
 **Capitulo 16**
