@@ -270,6 +270,7 @@ I, VR, VL, son ondas sinusoidales
 **44. Determine el voltaje a través de cada componente mostrado en la figura 16-73 si L1 está abierto**
 
 ![image](https://user-images.githubusercontent.com/105742149/186566466-82141a0a-965e-40e0-9b60-2e6612ebf6b9.png)
+
 ![image](https://user-images.githubusercontent.com/105742149/186566486-e0b7f1fa-c9e9-4c5a-b44f-87fee5c77f81.png)
 
 ### **4.	Video**
