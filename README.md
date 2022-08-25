@@ -177,10 +177,100 @@ La corriente es senosoidal
 
 ![image](https://user-images.githubusercontent.com/105742149/186563352-dd70d3b4-4da9-4028-8a30-bac05ced23e1.png)
 
-
 ### **Capitulo 16**
 
-**Capitulo 16**
+**2. ¿Cuáles son las formas de onda de I, VR y VL en el problema 1?**.
+
+I, VR, VL, son ondas sinusoidales
+
+**4. Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 16-55. Trace los diagramas de impedancia.**
+
+![image](https://user-images.githubusercontent.com/105742149/186564851-f2b05244-33e6-4134-b339-72aaae54806e.png)
+
+**6. Determine los valores de R y XL en un circuito RL en serie con los siguientes valores de impedancia total:**
+
+![image](https://user-images.githubusercontent.com/105742149/186564879-a3507da4-738f-48e4-96c1-e0485b2722e5.png)
+
+**8. Se aplica un voltaje sinusoidal de 5 V, 10 kHz al circuito de la figura 16-57. Calcule el voltaje a través de la resistencia total encontrada en el problema 7.**
+
+![image](https://user-images.githubusercontent.com/105742149/186564915-17a9a839-7401-4f74-bab4-2175bda5f7cc.png)
+
+**10. Exprese la corriente en forma polar para cada circuito de la figura 16-54.**
+
+![image](https://user-images.githubusercontent.com/105742149/186564941-192d5a67-988d-4156-b254-6b2a506eb0a7.png)
+
+![image](https://user-images.githubusercontent.com/105742149/186565028-71dcaec6-f03f-4a61-a62d-95cb576b6970.png)
+
+**12. Determine u para el circuito de la figura 16-58.**
+
+![image](https://user-images.githubusercontent.com/105742149/186565060-f34aa435-9c62-435b-a1d7-8e16b72cc5bc.png)
+
+**14. Trace las formas de onda de Vs, VR y VL en la figura 16-58. Muestre las relaciones de fase apropiadas.**
+
+![image](https://user-images.githubusercontent.com/105742149/186565167-7705d89c-752d-4c17-8812-bf8f007b0ad7.png)
+
+**16. Determine la magnitud y el ángulo de fase del voltaje de fuente en la figura 16-60.**
+
+![image](https://user-images.githubusercontent.com/105742149/186565191-d2e5cdc4-a4e0-43f9-9c8b-8ddc6efb47a8.png)
+
+![image](https://user-images.githubusercontent.com/105742149/186565208-beb3d2ca-a839-48b3-80b0-06c11d5c3dc9.png)
+
+**18. Repita el problema 17 para el circuito de adelanto para encontrar el adelanto de fase en la figura 16-62.**
+
+![image](https://user-images.githubusercontent.com/105742149/186565253-18676968-409d-418e-883f-2ced678829c7.png)
+
+**20. Repita el problema 19 para las siguientes frecuencias:**
+
+![image](https://user-images.githubusercontent.com/105742149/186565394-a3fb1b97-11aa-4b02-9fd1-0e8f41093825.png)
+
+**22. Encuentre la corriente total y cada corriente de rama en la figura 16-64.**
+
+![image](https://user-images.githubusercontent.com/105742149/186565422-dc8bc157-0537-4afb-88da-68b226dce9fd.png)
+
+**24. Repita el problema 23 para R 56 Æ y L 330 mH.**
+
+![image](https://user-images.githubusercontent.com/105742149/186565473-38ca9eba-4c0e-4c0e-b3c6-edf32139143b.png)
+
+**26. Determine la magnitud y el ángulo de fase de la corriente total que aparece en la figura 16-67.**
+
+![image](https://user-images.githubusercontent.com/105742149/186566006-abc02063-b8f4-48f5-9a10-ddbdec78042a.png)
+
+**28. ¿Es el circuito de la figura 16-68 predominantemente resistivo o predominantemente inductivo?**
+
+![image](https://user-images.githubusercontent.com/105742149/186566162-7edd915d-aec2-4037-abc1-c1aa81fc7ac4.png)
+
+**30. Para el circuito de la figura 16-69, determine lo siguiente:**
+
+![image](https://user-images.githubusercontent.com/105742149/186566212-f701872b-3ae1-4170-bd18-e393f450e7db.png)
+
+**32. Trace el diagrama fasorial de los voltajes y las corrientes que aparecen en la figura 16-70.**
+
+![image](https://user-images.githubusercontent.com/105742149/186566249-8454cf7e-70c1-438a-b29a-53f81fa41c16.png)
+
+**34. Determine el desplazamiento de fase y la atenuación desde la entrada hasta la salida para la red en configuración de escalera de la figura 16-72.**
+
+![image](https://user-images.githubusercontent.com/105742149/186566304-69762a7a-3155-4738-ae3d-4a047af1785c.png)
+
+**36. En cierto circuito RL, la potencia verdadera es de 100 mW, y la potencia reactiva de 340 mVAR. ¿Cuáles la potencia aparente?**
+
+![image](https://user-images.githubusercontent.com/105742149/186566327-5f28f500-75da-4e6b-8013-8300712d5a2d.png)
+
+**38. ¿Cuál es el factor de potencia en la figura 16-64?**
+
+![image](https://user-images.githubusercontent.com/105742149/186566360-2c93b1a4-a15b-48bf-9761-22fc9e92e35b.png)
+
+**40. Determine la potencia verdadera para el circuito de la figura 16-70.**
+
+![image](https://user-images.githubusercontent.com/105742149/186566405-ab93d9fb-7ed1-468f-b669-1cc3d245172f.png)
+
+**42. Con el mismo procedimiento del problema 41, trace la curva de respuesta para la figura 16-62**
+
+![image](https://user-images.githubusercontent.com/105742149/186566430-c74cd5a2-27ac-4748-aa63-686a9cd75369.png)
+
+**44. Determine el voltaje a través de cada componente mostrado en la figura 16-73 si L1 está abierto**
+
+![image](https://user-images.githubusercontent.com/105742149/186566466-82141a0a-965e-40e0-9b60-2e6612ebf6b9.png)
+![image](https://user-images.githubusercontent.com/105742149/186566486-e0b7f1fa-c9e9-4c5a-b44f-87fee5c77f81.png)
 
 ### **4.	Video**
 
