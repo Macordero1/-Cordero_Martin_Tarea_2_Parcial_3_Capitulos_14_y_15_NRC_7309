@@ -267,6 +267,8 @@ I, VR, VL, son ondas sinusoidales
 
 ![image](https://user-images.githubusercontent.com/105742149/186566430-c74cd5a2-27ac-4748-aa63-686a9cd75369.png)
 
+![image](https://user-images.githubusercontent.com/105742149/186567111-c47603cd-1faa-4f50-ad37-91dc4a8c1b27.png)
+
 **44. Determine el voltaje a través de cada componente mostrado en la figura 16-73 si L1 está abierto**
 
 ![image](https://user-images.githubusercontent.com/105742149/186566466-82141a0a-965e-40e0-9b60-2e6612ebf6b9.png)
