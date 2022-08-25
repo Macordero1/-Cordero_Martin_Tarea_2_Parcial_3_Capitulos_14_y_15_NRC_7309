@@ -19,6 +19,14 @@
 
 ### **2.	Marco Teórico (Resumen)**
 
+![image](https://user-images.githubusercontent.com/105742149/186725554-055ee85d-c8d1-4392-bdd3-9fbe44262a6f.png)
+
+![image](https://user-images.githubusercontent.com/105742149/186725636-295a8a3f-a74d-482b-beed-f6618c50ea0f.png)
+
+![image](https://user-images.githubusercontent.com/105742149/186725671-ba82d09e-3d69-4d53-a52c-f5ab6ec6deb6.png)
+
+![image](https://user-images.githubusercontent.com/105742149/186725707-a34ac394-b657-47a1-a120-2555462b3c73.png)
+
 ### **3.	Explicación y resolución de ejercicios o problemas**
 
 ### **Capitulo 15**
@@ -276,6 +284,8 @@ I, VR, VL, son ondas sinusoidales
 ![image](https://user-images.githubusercontent.com/105742149/186566486-e0b7f1fa-c9e9-4c5a-b44f-87fee5c77f81.png)
 
 ### **4.	Video**
+
+https://youtu.be/YyQt5dH4EQc
 
 ### **5.	Conclusiones**
 
